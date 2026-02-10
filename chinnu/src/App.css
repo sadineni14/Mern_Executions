@@ -1,0 +1,11 @@
+.App{ 
+  text-align: center;
+  color: red;
+}
+.App h1{
+  color: green;
+}
+.counter {
+  background: lightblue;
+  padding: 20px;
+}
