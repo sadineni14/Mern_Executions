@@ -1,4 +1,5 @@
 import Validation from "./Validation";
+import Use from "./useEffect/Use";
 
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
     
     <Validation />
 
-      
+      <Use />
     </div>
   );
 }
