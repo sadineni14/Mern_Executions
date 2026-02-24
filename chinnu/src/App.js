@@ -1,16 +1,15 @@
-
-import Counter1 from './Counter1';
-import './App.css';   
-import Name from './Name';
+import Validation from "./Validation";
 
 
 function App() {
   return (
     <div>
-      <Counter1 />
-      <Name/>
+    
+    <Validation />
+
+      
     </div>
   );
 }
 
-export default App;
+export default App; 
